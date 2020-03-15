@@ -10,7 +10,12 @@ Prior to this I worked in pharmaceutical sales for 8 years.
 ### Agility
 
 ### Collaboration
+
+### Transferable skills....
 # Links
+[Github](https://github.com/alexakearns)
+
+[LinkedIn](https://www.linkedin.com/in/alexa-kearns-8558a754/)
 
 # Projects
 A summary of my key projects. 
@@ -33,10 +38,16 @@ Exercise and Sports Science BSc(hons) 2:1
 
 ### Lord Wandsworth College (1998 - 2005)
 - A Levels AAB (B in Maths), AS Level AAAB (B in Physics)
-- Music and Academic Scholarship from 11+
-- All-rounder Scholarship from 16+
 
 # Experience
+### Nestle Health Sciences (July 2019 - March 2020)
+###### Territory Manager
+
+### Merck Serono
+###### Regional Business Manager
+
+### Abbott Nutrition
+###### 
 
 # Hobbies
 Cycling including road, off-road and racing
