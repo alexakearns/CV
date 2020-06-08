@@ -17,19 +17,31 @@ Prior to this I worked in pharmaceutical sales for 8 years.
 
 [LinkedIn](https://www.linkedin.com/in/alexa-kearns-8558a754/)
 
+[CodeWars](https://www.codewars.com/users/ajk202)
+
+
+
 # Projects
 A summary of my key projects. 
 
-| Project | Description | Language | Links |
-| --- | --- | --- | --- |
-|Student Directory| A program allowing data on students to be input etc.... | Ruby | [Github](https://github.com/alexakearns/student-directory) |
+| Project | Description | Project Type | Language | Links |
+| --- | --- | --- | --- | --- |
+| Mission Ctrl | Arcade style game to aid learning VS Code Shortcuts | Group Project, 2 weeks | MongoDB, Express, React and Node | [Github - Front End](https://github.com/tommyrharper/mission-ctrl), [Github - Back End API](https://github.com/hturnbull93/mission-ctrl-api-node), [Deployed Application](http://mission-ctrl.surge.sh/) |
+| Bank Tech Test | Command Line Program to emulate a bank account | Individual | Ruby | [Bank Tech Test - Github](https://github.com/alexakearns/bank_tech_test)|
+| Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - Two Weeks | Ruby on Rails, Postgresql | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/) |
+
 
 # Education
 ### Makers Academy (Feb 2020 - June 2020)
 - OOP, TD, Pair programming
 - Ruby
 - RSpec
-- List to grow as I progress through course
+- Javascript
+- Node
+- Express
+- Postgresql
+- MongoDB
+- Ruby on Rails
 
 ### University of Exeter (2005 - 2008)
 Exercise and Sports Science BSc(hons) 2:1
@@ -37,7 +49,7 @@ Exercise and Sports Science BSc(hons) 2:1
 - All optional modules in quantatative subjects, including disseration
 
 ### Lord Wandsworth College (1998 - 2005)
-- A Levels AAB (B in Maths), AS Level AAAB (B in Physics)
+- A Levels AAB (B in Maths), AS Level AAAB (A in Maths, B in Physics)
 
 # Experience
 ### Nestle Health Sciences (July 2019 - March 2020)
