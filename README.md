@@ -1,6 +1,6 @@
 # Alexa Kearns
 
-I am a Junior Developer currently training at [Makers Academy](https://makers.tech/). 
+I am a junior full stack software developer recently graduated from [Makers Academy](https://makers.tech/).  
 
 Prior to this I worked in pharmaceutical sales for 8 years. 
 
@@ -11,7 +11,12 @@ Prior to this I worked in pharmaceutical sales for 8 years.
 
 ### Collaboration
 
-### Transferable skills....
+### Teamwork
+
+### Strategic and Commercial Awareness
+
+### Customer Focused
+
 # Links
 [Github](https://github.com/alexakearns)
 
@@ -28,12 +33,14 @@ A summary of my key projects.
 | --- | --- | --- | --- | --- |
 | Mission Ctrl | Arcade style game to aid learning VS Code Shortcuts | Group Project, 2 weeks | MongoDB, Express, React and Node | [Github - Front End](https://github.com/tommyrharper/mission-ctrl), [Github - Back End API](https://github.com/hturnbull93/mission-ctrl-api-node), [Deployed Application](http://mission-ctrl.surge.sh/) |
 | Bank Tech Test | Command Line Program to emulate a bank account | Individual | Ruby | [Bank Tech Test - Github](https://github.com/alexakearns/bank_tech_test)|
-| Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - Two Weeks | Ruby on Rails, Postgresql | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/) |
+| Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - 2 Weeks | Ruby on Rails, Postgresql | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/) |
 
 
 # Education
 ### Makers Academy (Feb 2020 - June 2020)
-- OOP, TD, Pair programming
+TECH SKILLS/BEHAVIOUR SKILLS
+- Full Stack Development
+- OOP, TDD, Pair programming, ODD
 - Ruby
 - RSpec
 - Javascript
@@ -42,6 +49,9 @@ A summary of my key projects.
 - Postgresql
 - MongoDB
 - Ruby on Rails
+- AGILE methodologies
+- Mentored 2 students
+- Independent Learning
 
 ### University of Exeter (2005 - 2008)
 Exercise and Sports Science BSc(hons) 2:1
@@ -53,13 +63,13 @@ Exercise and Sports Science BSc(hons) 2:1
 
 # Experience
 ### Nestle Health Sciences (July 2019 - March 2020)
-###### Territory Manager
+#### Territory Manager
 
 ### Merck Serono
-###### Regional Business Manager
+#### Regional Business Manager (Feb 2018 - May 2019)
 
-### Abbott Nutrition
-###### 
+### Abbott Nutrition (July 2013 - Jan 2018)
+#### Senior Account Manager
 
 # Hobbies
 Cycling including road, off-road and racing
