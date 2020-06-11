@@ -29,6 +29,9 @@ Prior to this I worked in pharmaceutical sales for 8 years.
 # Projects
 A summary of my key projects. 
 
+
+Technologies used, testing frameworks used
+
 | Project | Description | Project Type | Language | Links |
 | --- | --- | --- | --- | --- |
 | Mission Ctrl | Arcade style game to aid learning VS Code Shortcuts | Group Project, 2 weeks | MongoDB, Express, React and Node | [Github - Front End](https://github.com/tommyrharper/mission-ctrl), [Github - Back End API](https://github.com/hturnbull93/mission-ctrl-api-node), [Deployed Application](http://mission-ctrl.surge.sh/) |
