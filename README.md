@@ -14,9 +14,9 @@ Alexa Kearns
 </br>
 I am a junior full stack software developer recently graduated from [Makers Academy](https://makers.tech/) transitioning from a previous career in pharmaceutical sales.
 
-The sense of achievement and elation (as ) coding has brought to me
+Blah blah blah
 
- <br>
+<br>
 <div align="center">
 
 [Github](https://github.com/alexakearns) | [LinkedIn](https://www.linkedin.com/in/alexa-kearns-8558a754/) | [CodeWars](https://www.codewars.com/users/ajk202)
@@ -25,6 +25,7 @@ The sense of achievement and elation (as ) coding has brought to me
 </br>
 
 # Skills
+
 
 ## Communication
 
@@ -49,6 +50,8 @@ Ability to see the big picture
 Return on investment (get the most out of time)
 
 ## Customer Focused
+
+I have previously had my biggest success keeping the customer at the center of my work. Whilst having my own objectives and targets, by ensuring I fully understood the needs of the customer and confirming that we are on the same page throughout a project meant we both gained as much as we could from working together.
 
 ## Public speaking and presentation skills
 
@@ -108,7 +111,7 @@ Exercise and Sports Science BSc(hons) 2:1
 
 ### Lord Wandsworth College (1998 - 2005)
 
-- A Levels AAB (B in Maths), AS Level AAAB (A in Maths, B in Physics)
+- A Levels AAB (inc. Maths), AS Level AAAB (inc. Maths & Physics)
 
 # Experience
 
