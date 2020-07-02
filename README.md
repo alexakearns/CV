@@ -3,7 +3,7 @@ Alexa Kearns
 </h1>
 <br>
 <div align="center">
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-432%20commits-red.svg" alt=""></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-208%20commits-yellow.svg" alt=""></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-203%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-195%20commits-purple.svg" alt=""></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-58%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-462%20commits-red.svg" alt="Ruby"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-208%20commits-yellow.svg" alt="Javascript"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-203%20commits-orange.svg" alt="HTML"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-195%20commits-purple.svg" alt="CSS"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-58%20commits-blue.svg" alt="SQL"></a>
 <div align="center">
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
@@ -19,7 +19,8 @@ Blah blah blah
 <br>
 <div align="center">
 
-[Github](https://github.com/alexakearns) | [LinkedIn](https://www.linkedin.com/in/alexa-kearns-8558a754/) | [CodeWars](https://www.codewars.com/users/ajk202)
+[Github](https://github.com/alexakearns) | <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="48" width="48"></a>  | [CodeWars](https://www.codewars.com/users/ajk202) | <a href="https://sourcerer.io/alexakearns"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a> 
 
 </div>
 </br>
@@ -141,6 +142,16 @@ Exercise and Sports Science BSc(hons) 2:1
 - Collaborated with NHS payors and commissioned dietitians on guideline implementation
   - resulting in increase use of my portfolio and NHS savings
 - Mentored new employees and supported training department on up-skilling peers
+
+### Merck, Sharpe and Dohme (Apr 2012 - June 2013)
+
+
+### Computer Aided Design Technician (July 2005 - Mar 2012)
+
+### Sports Coach (Mar 2011 - Oct 2011) Melbourne, Australia
+
+### Freelance Hockey Coach (Sept 2008 - Oct 2011)
+
 
 # Hobbies
 
