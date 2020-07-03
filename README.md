@@ -120,35 +120,51 @@ Exercise and Sports Science BSc(hons) 2:1
 
 #### Territory Manager
 
-- Paternity cover
-- Adult and paediatric enteral nutrition
-- Territory included hospitals and community health services across all London and Kent
-- Customer primarily dietitians
+- 
 
-### Merck Serono
+### Merck Serono  (Feb 2018 - May 2019)
 
-#### Regional Business Manager (Feb 2018 - May 2019)
+#### Regional Business Manager - Sales (Fertility Pharmaceuticals and Technologies)
+
+- 
+- Successfully proposed new pricing model for medical device to Global division leadership to reflect UK market.
 
 - Large pharmaceutical and technology fertility portfolio
 - Territory South England including London
 - NHS and private fertility services
 - Customers included consultants, specialist nurses, embryologists and business managers
 
-### Abbott Nutrition (July 2013 - Jan 2018)
+### Abbott Nutrition (May 2015 - Jan 2018)
 
-#### Senior Account Manager
+#### Senior Account Manager - Sales (Paediatric Allergy Specialist)
 
-- Paediatric allergy specialist
-- Collaborated with NHS payors and commissioned dietitians on guideline implementation
-  - resulting in increase use of my portfolio and NHS savings
+- Promoted from working across 6 London boroughs to 3 counties and 21 London boroughs following success in showcasing key stakeholder management and prioritising areas through analysis of high return on investment (time and resources)
 - Mentored new employees and supported training department on up-skilling peers
+- Achieved 3 rd position ranking within the National Sales Team in 2016 and #1 by mid-year 2017
+- Partnership working with South Essex NHS Commissioners which resulted in achieving market leading position for my product
 
-### Merck, Sharpe and Dohme (Apr 2012 - June 2013)
+#### Adult Nutrition Account Manager - Sales (July 2013 - May 2015)
+
+- Project Managed training of 90% of nurses staff across 6 hospital sites and implementation of new ward-based medical
+device
+- Improved ranking against national team from 31/40 July 2013 to 11/40 Dec 2013
+- Launched new product Mar 2014. Unit sales 2014 = 24,370 / 2015 = 75,065 
 
 
-### Computer Aided Design Technician (July 2005 - Mar 2012)
+### Merck, Sharpe and Dohme - Sales (Apr 2012 - June 2013)
+
+#### Sales Representative
+- Industry award finalist (Pharma Field - Medical Representative Award Category)
+- Distinction in all specialist papers for industry accreditation
+
+
+### JKL Architecture Ltd / I-Desk Solutions
+#### Computer Aided Design Technician (July 2005 - Mar 2012)
+- Vectorworks
+- AutoCAD
 
 ### Sports Coach (Mar 2011 - Oct 2011) Melbourne, Australia
+- Coached club hockey team to win league and play offs which resulted in be selected to coach an inter-state team in a state wide tournament.
 
 ### Freelance Hockey Coach (Sept 2008 - Oct 2011)
 
