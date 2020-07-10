@@ -3,8 +3,8 @@ Alexa Kearns
 </h1>
 <br>
 <div align="center">
-<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-462%20commits-red.svg" alt="Ruby"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-208%20commits-yellow.svg" alt="Javascript"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-203%20commits-orange.svg" alt="HTML"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-195%20commits-purple.svg" alt="CSS"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-58%20commits-blue.svg" alt="SQL"></a>
-<div align="center">
+<a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-516%20commits-red.svg" alt="Ruby"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-296%20commits-yellow.svg" alt="Javascript"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-288%20commits-orange.svg" alt="HTML"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/CSS-270%20commits-purple.svg" alt="CSS"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-58%20commits-blue.svg" alt="SQL"></a>
+<div align="center"> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/TypeScript-20%20commits-green.svg" alt=""></a>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
@@ -12,15 +12,17 @@ Alexa Kearns
 </div>
 
 </br>
-I am a junior full stack software developer recently graduated from [Makers Academy](https://makers.tech/) transitioning from a previous career in pharmaceutical sales.
 
-Blah blah blah
+Full stack developer and recent graduate of [Makers Academy](https://makers.tech/) seeking employment opportunities that encourages collaboration and continuous learning.
+
+Conscientious, committed and determined to succeed. Team player and supportive of colleagues, yet also able to work on her own to achieve excellent and sustainable outcomes. Actively seeks opportunities to ensure continuous development and learning. Regularly pushes beyond comfort zone to improve, which more recently allowed a change career from pharmaceutical sales representative to software developer.
+
 
 <br>
 <div align="center">
 
-[Github](https://github.com/alexakearns) | <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="48" width="48"></a>  | [CodeWars](https://www.codewars.com/users/ajk202) | <a href="https://sourcerer.io/alexakearns"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a> 
+[Github](https://github.com/alexakearns) |  [CodeWars](https://www.codewars.com/users/ajk202) | <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="48" width="48"></a>  | <a href="https://sourcerer.io/alexakearns"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a> 
 
 </div>
 </br>
@@ -31,8 +33,6 @@ Blah blah blah
 ## Communication
 
 Communication comes in so many different formats, and through my professional life, identifying and understanding how different people like to be communicated with has allowed me to understand more about my strengths. One of the most valuable communication skills I have found is the ability to listen and really understand through careful and intentional questioning and (confirming) I have understood. This allowed future communication to be both relevant to my customer/colleagues needs and allowed me to be able to (tailor/shape/ my messaging blah)
-
-Direct communication -
 
 ## Agility
 
@@ -60,7 +60,7 @@ I enjoy and have had success taking technical information and tailoring presenta
 
 Daily I would present to groups of between 2 and 50 attendees and whilst my presenting skills are strong, a strength highlighted to me by previous managers and colleagues was to be able to use my presentation to facilitate discussion amongst attendees which meant a more meaningful interaction for everyone
 
-## Problem solving....?
+## Problem solving
 
 # Projects
 
