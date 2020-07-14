@@ -21,7 +21,7 @@ Conscientious, committed and determined to succeed. Team player and supportive o
 <br>
 <div align="center">
 
-[Github](https://github.com/alexakearns) |  [CodeWars](https://www.codewars.com/users/ajk202) | <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
+ <a href="https://www.linkedin.com/in/alexa-kearns-8558a754/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="0" height="48" width="48"></a>  | <a href="https://sourcerer.io/alexakearns"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a> 
 
 </div>
@@ -31,6 +31,8 @@ Conscientious, committed and determined to succeed. Team player and supportive o
 
 
 ## Communication
+
+Communication is an integral part of face to face sales 
 
 Communication comes in so many different formats, and through my professional life, identifying and understanding how different people like to be communicated with has allowed me to understand more about my strengths. One of the most valuable communication skills I have found is the ability to listen and really understand through careful and intentional questioning and (confirming) I have understood. This allowed future communication to be both relevant to my customer/colleagues needs and allowed me to be able to (tailor/shape/ my messaging blah)
 
@@ -68,7 +70,7 @@ A summary of my key projects.
 
 | Project            | Description                                                     | Project Type            | Language                          | Testing Frameworks | Links                                                                                                                                                                                                    |
 | ------------------ | --------------------------------------------------------------- | ----------------------- | --------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mission Ctrl       | Arcade style game to aid learning VS Code Shortcuts             | Group Project, 2 weeks  | MongoDB, Express, React and Node  | Mocha, Chai,       | [Github - Front End](https://github.com/tommyrharper/mission-ctrl), [Github - Back End API](https://github.com/hturnbull93/mission-ctrl-api-node), [Deployed Application](http://mission-ctrl.surge.sh/) |
+| Mission Ctrl       | Arcade style game to aid learning VS Code Shortcuts             | Group Project, 2 weeks  | MongoDB, Express, React and Node  | Jest - Enzyme, Mocha, Chai,       | [Github - Front End](https://github.com/tommyrharper/mission-ctrl), [Github - Back End API](https://github.com/hturnbull93/mission-ctrl-api-node), [Deployed Application](http://mission-ctrl.surge.sh/) |
 | Bank Tech Test     | Command Line Program to emulate a bank account                  | Individual              | Ruby                              | RSpec              | [Bank Tech Test - Github](https://github.com/alexakearns/bank_tech_test)                                                                                                                                 |
 | Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - 2 Weeks | Ruby on Rails, PostgreSQL         | RSpec              | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/)                                                                              |
 | News Summary       | Front end application using Guardian News API                   | Individual              | Javascript, JSON, Node, HTML, CSS | Jasmine            | [News Summary - Github](https://github.com/alexakearns/news-summary-challenge)                                                                                                                           |
@@ -89,17 +91,7 @@ A summary of my key projects.
 
 TECH SKILLS/BEHAVIOUR SKILLS
 
-- Full Stack Development
-- OOP, TDD, Pair programming, ODD
-- Ruby
-- RSpec
-- Javascript
-- Node
-- Express
-- PostgreSQL
-- MongoDB
-- Ruby on Rails
-- AGILE methodologies
+
 - Mentored 2 students
 - Independent Learning
 
@@ -120,25 +112,21 @@ Exercise and Sports Science BSc(hons) 2:1
 
 #### Territory Manager
 
-- 
+- Significantly expanding customer network.
 
 ### Merck Serono  (Feb 2018 - May 2019)
 
 #### Regional Business Manager - Sales (Fertility Pharmaceuticals and Technologies)
 
-- 
+- Exceeded sales targets for medical device (embryo incubator) that used technology to predict likelihood of success for an embryo.
 - Successfully proposed new pricing model for medical device to Global division leadership to reflect UK market.
-
-- Large pharmaceutical and technology fertility portfolio
-- Territory South England including London
-- NHS and private fertility services
-- Customers included consultants, specialist nurses, embryologists and business managers
 
 ### Abbott Nutrition (May 2015 - Jan 2018)
 
 #### Senior Account Manager - Sales (Paediatric Allergy Specialist)
 
-- Promoted from working across 6 London boroughs to 3 counties and 21 London boroughs following success in showcasing key stakeholder management and prioritising areas through analysis of high return on investment (time and resources)
+- Promoted from working across 6 London boroughs to 3 counties and 21 London boroughs following success in showcasing key stakeholder management and    
+prioritising areas through analysis of high return on investment (time and resources)
 - Mentored new employees and supported training department on up-skilling peers
 - Achieved 3 rd position ranking within the National Sales Team in 2016 and #1 by mid-year 2017
 - Partnership working with South Essex NHS Commissioners which resulted in achieving market leading position for my product
