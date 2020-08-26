@@ -39,7 +39,7 @@ A summary of my key projects.
 | Acebook/GAPAG Book | Social Media site with login authentication and message posting | Group Project - 2 Weeks | Ruby on Rails, PostgreSQL         | RSpec              | [GAPAG Book - Github](https://github.com/alexakearns/acebook-rails-template), [Deployed App](https://gapag1.herokuapp.com/)                                                                              |
 | News Summary       | Front end application using Guardian News API                   | Individual              | Javascript, JSON, Node, HTML, CSS | Jasmine            | [News Summary - Github](https://github.com/alexakearns/news-summary-challenge)                                                                                                                           |
 | MakersBnB          | AirBnB clone                                                    | Group Project, 1 week   | Javascript, HTML, CSS             | Jasmine            | [MakersBnB - Github](https://github.com/alexakearns/MakersBnB)                                                                                                                                         
-# Technical
+# Technical Skills
 
 | Type                   | Skill                                                    |
 | ---------------------- | -------------------------------------------------------- |
@@ -54,41 +54,32 @@ A summary of my key projects.
 
 # Experience
 
-### Nestle Health Sciences (July 2019 - March 2020)
+## Pharmaceutical Sales
 
-#### Territory Manager
+### Nestle Health Sciences - Nutrition (July 2019 - March 2020)
 
 - Exceeded customer coverage and sales targets
 - Paternity cover
 
-### Merck Serono  (Feb 2018 - May 2019)
-
-#### Regional Business Manager - Sales (Fertility Pharmaceuticals and Technologies)
+### Merck Serono - Fertility (Feb 2018 - May 2019)
 
 - Highest national sales for incubator (each approx £50k) that uses an algorithm to predict survival of embryos
 - Proposed new pricing strategy to Global leadership team which was subsequently implemented nationally
 
-### Abbott Nutrition (May 2015 - Jan 2018)
+### Abbott Nutrition - Nutrition (July2013 - Jan 2018)
 
-#### Senior Account Manager - Sales (Paediatric Allergy Specialist)
-
-- Achieved 3rd position ranking within the National Sales Team in 2016 and #1 by mid-year 2017
+- Nationally ranked 3rd for sales in 2016
 - Mentored new employees and supported training department on up-skilling peers
-- Partnership working with South Essex NHS Commissioners which resulted in achieving market leading position for my product
-
-#### Adult Nutrition Account Manager - Sales (July 2013 - May 2015)
-
+- Partnership working with NHS team resulting in product becoming market leader
 - Launched new product Mar 2014. Sales increased by 200% in second year
-- Improved ranking against national team from 31/40 July 2013 to 11/40 Dec 2013
-- Project Managed training of 90% of nurses staff across 6 hospital sites on new ward-based medical device
+- Project managed training of 90% of ward nurses staff across 6 hospital sites on new medical device
 
+### Merck, Sharpe and Dohme - Diabetes & Cholesterol (Apr 2012 - June 2013)
 
-### Merck, Sharpe and Dohme - Sales (Apr 2012 - June 2013)
-
-#### Sales Representative
 - Industry award finalist (Pharma Field)
 - Industry accreditation - Distinction in all specialist papers
 
+## Other 
 
 ### JKL Architecture Ltd / I-Desk Solutions
 #### Computer Aided Design Technician (July 2005 - Mar 2012)
