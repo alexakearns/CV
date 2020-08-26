@@ -66,9 +66,9 @@ A summary of my key projects.
 
 ### Abbott Nutrition - Nutrition (July2013 - Jan 2018)
 
-- Nationally ranked 3rd for sales in 2016
 - Mentored new employees and supported training department on up-skilling peers
 - Partnership working with NHS team resulting in product becoming market leader
+- Nationally ranked 3rd for sales in 2016
 - Launched new product Mar 2014. Sales increased by 200% in second year
 - Project managed training of 90% of ward nurses staff across 6 hospital sites on new medical device
 
