@@ -3,20 +3,18 @@
 <h1 align="center">
 Alexa Kearns  
 </h1>
-<div align="center"> 
-
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
-</div>
 <br>
 <div align="center">
 <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/JavaScript-531%20commits-yellow.svg" alt="Javascript"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/Ruby-516%20commits-red.svg" alt="Ruby"></a>  <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/HTML-487%20commits-orange.svg" alt="HTML"></a> <a href="https://sourcerer.io/alexakearns"> 
-</div>
-<div align="center">
-<img src="https://img.shields.io/badge/CSS-459%20commits-purple.svg" alt="CSS"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-187%20commits-blue.svg" alt="SQL"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/TypeScript-26%20commits-green.svg" alt=""></a>
+<img src="https://img.shields.io/badge/CSS-459%20commits-purple.svg" alt="CSS"></a> <a href="https://sourcerer.io/alexakearns"><img src="https://img.shields.io/badge/SQL-187%20commits-blue.svg" alt="SQL"></a> 
 </div>
 
 
 </br>
+<div align="center"> 
+
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+</div>
 
 Full stack developer and recent graduate of [Makers Academy](https://makers.tech/) seeking employment opportunities that encourages collaboration and continuous learning. 
 
@@ -93,28 +91,19 @@ A summary of my key projects.
 
 ## Communication and Collaboration
 
-Communication is an integral part of face to face sales 
-
-Communication comes in so many different formats, and through my professional life, identifying and understanding how different people like to be communicated with has allowed me to understand more about my strengths. One of the most valuable communication skills I have found is the ability to listen and really understand through careful and intentional questioning and (confirming) I have understood. This allowed future communication to be both relevant to my customer/colleagues needs and allowed me to be able to (tailor/shape/ my messaging blah)
+Working in sales has allowed me to understand about the different forms of communication and the importance of understanding how they impact people. 
 
 ## Agility
 
-Able to adapt and change in new roles with new information  
-Enjoy learning new skills, ways of working  
-Not fixed in having to do things in a fixed way
+I am able to adapt and change in new roles with new information. During each group project we took on different roles within the team allowing for new leadership each day. On a number of occasions I stepped up into the leadership role on the day due to others being able to do their planned day.
 
-
-## Strategic and Commercial Awareness
-
-Ability to see the big picture  
-Return on investment (get the most out of time)
+Learning new skills and ways of working is something I am able to do quickly and efficiently.
 
 ## Customer Focused
 
 I have previously had my biggest success keeping the customer at the center of my work. Whilst having my own objectives and targets, by ensuring I fully understood the needs of the customer and confirming that we are on the same page throughout a project meant we both gained as much as we could from working together.
 
-
-## Problem solving
+During my time at Makers, for projects we received specification to work to. I regularly received feedback from my peers that I ensured we kept these in mind throughout.  
 
 
 # Education
