@@ -91,19 +91,21 @@ A summary of my key projects.
 
 ## Communication and Collaboration
 
-Working in sales has allowed me to understand about the different forms of communication and the importance of understanding how they impact people. 
+Working in sales has allowed me to understand about the different forms of communication and the importance of understanding how they impact people. In sales I would need to email, phone and network to book time in busy the schedules of NHS medical  professionals. Tailoring content and communication style to audiences of doctors and nurses from 1 to 50, to match their clinical knowledge, group dynamics and intended outcomes. 
+
+I found my experience communicating daily with lots of different types of people very valuable when working on group projects and pair programming. My ability to listen as well as explain my views in a clear and succinct manner helped progress our work in a calm and efficient manner.
 
 ## Agility
 
 I am able to adapt and change in new roles with new information. During each group project we took on different roles within the team allowing for new leadership each day. On a number of occasions I stepped up into the leadership role on the day due to others being able to do their planned day.
 
-Learning new skills and ways of working is something I am able to do quickly and efficiently.
+With everyday and every meeting in sales being different, this has given me the confidence to adapt quickly to the environment and circumstances I'm presented with.
 
 ## Customer Focused
 
 I have previously had my biggest success keeping the customer at the center of my work. Whilst having my own objectives and targets, by ensuring I fully understood the needs of the customer and confirming that we are on the same page throughout a project meant we both gained as much as we could from working together.
 
-During my time at Makers, for projects we received specification to work to. I regularly received feedback from my peers that I ensured we kept these in mind throughout.  
+During my time at Makers, for projects we received specification to work to. I regularly received feedback from my peers that I ensured we kept these in mind throughout our planning and build processes.  
 
 
 # Education
